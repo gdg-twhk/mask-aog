@@ -1,0 +1,19 @@
+{
+  "name": "find_mask",
+  "version": "1.0.0",
+  "description": "find tw mask",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mask"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
